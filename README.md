@@ -1,13 +1,52 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Digital Innovation One
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um joguinho de space shooter super legal! 
+<p align="center">
+  <img src="/DIO.png" alt="DIO" title="Digital Innovation One">
+</p>
 
-### Os requisitos são:
+## Bootcamp - Orbi Web Games Developer
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
- 
+Desafio de Projeto - Space Invaders
+
+## Índice
+
+  - [Links](#links)
+- [Meu processo](#meu-processo)
+  - [O que aprendi](#o-que-aprendi)
+  - [Recursos úteis](#useful-resources)
+- [Autor](#autor)
 
 
-## 🚀 Let's code! 🚀
+
+### Captura de tela
+
+<img src="/SPACE.PNG" alt style="max-width: 100%">
+
+
+### Links
+
+- URL da solução: [GitHub](https://github.com/AIemao/space-shooter-dio-master)
+- URL do site ao vivo: [GitHub Pages](https://aiemao.github.io/space-shooter-dio-master/)
+
+
+
+### Construído com
+
+- Marcação HTML5 semântica
+- Propriedades personalizadas de CSS
+- JavaScript
+
+
+### O que eu aprendi
+
+Este tenho que ser sincero. Fiquei confuso em algumas partes dos videos. Audio ruim.
+
+Função de ordem aleatoria de cores
+
+### Desenvolvimento contínuo
+
+Rever o Desafio
+
+## Autor
+
+- Site - [Celio Junior](https://www.linkedin.com/in/celio-junior-152529193/)
